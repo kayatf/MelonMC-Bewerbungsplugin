@@ -1,0 +1,14 @@
+# name of the plugin
+name: "TestPlugin"
+
+# version of the plugin
+version: "1.0-SNAPSHOT"
+
+# author(s) of the plugin
+authors: ["Daniel Riegler"]
+
+# main class of the plugin
+main: "TestPlugin"
+
+# description of the plugin
+description: "Ehem. Bewerbungsplugin fuer das MelonMC.de Netzwerk."
